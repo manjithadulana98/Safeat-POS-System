@@ -1,0 +1,2 @@
+# Safeat-POS-System
+We are focused on developing an automated Point of Sales system that will enable customers at restaurants to order without human contact while also protecting from nay power disruptions through an uninterruptible power supply. This also allows for automated inventory management. Several hardware and software technologies have been implemented in this project including Raspberry Pi, custom designed charging module, Node MCU, Node Red, Firebase and web servers and we hope the system will be a viable alternative to the current system with human contact
