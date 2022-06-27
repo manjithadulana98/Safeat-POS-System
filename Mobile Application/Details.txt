@@ -1,0 +1,2 @@
+Used Flutter 2
+Tested using Android 11 phone (OPPO A54)
